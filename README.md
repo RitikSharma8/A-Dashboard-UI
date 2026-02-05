@@ -14,4 +14,4 @@ A modern, responsive, and intuitive **Dashboard UI** built for a previous projec
 - HTML5
 - CSS3 (Flexbox & Grid)
 
-Check it out -
+Check it out -  https://ritiksharma8.github.io/A-Dashboard-UI/
